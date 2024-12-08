@@ -1,1 +1,34 @@
-[Git - Comandos e Merge com conflito.pptx](https://github.com/user-attachments/files/18052859/Git.-.Comandos.e.Merge.com.conflito.pptx)
+
+
+
+
+
+
+
+
+
+
+Git – Comandos e Merge com conflito
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clicando com o botão direito do mouse selecione a opção:
+“Open Git Bash here”.
